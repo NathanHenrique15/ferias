@@ -70,13 +70,10 @@
 }
 .animein
 {
-    width: 20%;
-    height: 16%;
+    width: 150px; 
+    height: 150px;
     border-radius: 20px;
-    margin-left: 130px;
-    margin-right: 80px;
-    display: inline-block;
-    margin-bottom: 5px;
+    border-right: 10px;
 }
 .logo
 {
@@ -128,4 +125,8 @@
 {
     border-top: 10px double rgb(27, 34, 49);
     border-bottom: 10px double rgb(27, 34, 49);
+}
+.aaa
+{
+    display: block;
 }
